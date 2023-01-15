@@ -6,7 +6,7 @@ four state-of-the-art models: [MediaPipe hands](https://github.com/google/mediap
 
 Occlusions, illumination variations and motion blur are indetified as the main obstacles to the performance of existing hand pose estimation models. 
 Considering their influence on the HPE models, we transform the source test case obtianed from two public hand pose datasets: 
-[FreiHand](https://github.com/lmb-freiburg/freihand) and [CMU Panoptic Hand (Panoptic)](http://domedb.perception.cs.cmu.edu/handdb.html) 
+[FreiHand](https://github.com/lmb-freiburg/freihand) and [CMU Panoptic Hand](http://domedb.perception.cs.cmu.edu/handdb.html) 
 to construct the corresponding follow-up test cases, and propose the following metamorphic relations: 
 
 ![MR_Summary](https://user-images.githubusercontent.com/86390633/212545001-72f63b9f-97c0-441d-b292-39b6a5806504.png)

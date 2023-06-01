@@ -1,0 +1,22 @@
+
+result for diagonal occluded hands:
+counts,label
+FN,1904
+TP,995
+FP,101
+"
+"
+result for horizontal occluded hands:
+counts,label
+FN,1458
+TP,1388
+FP,154
+"
+"
+result for vertical occluded hands:
+counts,label
+TP,1836
+FN,1044
+FP,120
+"
+"

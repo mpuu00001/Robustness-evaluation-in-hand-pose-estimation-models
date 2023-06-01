@@ -1,0 +1,29 @@
+
+result for overexposed occluded hands:
+counts,label
+TP,1819
+FN,1055
+FP,126
+"
+"
+result for strongly_overexposed occluded hands:
+counts,label
+FN,2016
+TP,908
+FP,76
+"
+"
+result for strongly_underexposed occluded hands:
+counts,label
+FN,2210
+TP,664
+FP,126
+"
+"
+result for underexposed occluded hands:
+counts,label
+TP,1891
+FN,959
+FP,150
+"
+"

@@ -1,0 +1,15 @@
+
+result for 122 occluded hands:
+counts,label
+TP,2233
+FN,598
+FP,169
+"
+"
+result for 488 occluded hands:
+counts,label
+TP,2046
+FN,840
+FP,114
+"
+"

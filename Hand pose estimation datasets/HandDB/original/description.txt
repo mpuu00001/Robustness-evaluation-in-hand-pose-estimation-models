@@ -1,0 +1,2 @@
+The folder "naked_hands" is obtained from HandDB synth2 that contains images of single hand  
+HandDB url: http://domedb.perception.cs.cmu.edu/handdb.html

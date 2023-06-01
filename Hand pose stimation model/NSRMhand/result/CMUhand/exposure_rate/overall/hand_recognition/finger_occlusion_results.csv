@@ -1,0 +1,5 @@
+test_case,precision,recall,f1_score
+strongly_underexposed,0.3283333333333333,1.0,0.49435382685069
+underexposed,0.907,1.0,0.951232302045097
+overexposed,0.976,1.0,0.9878542510121457
+strongly_overexposed,0.8106666666666666,1.0,0.8954344624447718

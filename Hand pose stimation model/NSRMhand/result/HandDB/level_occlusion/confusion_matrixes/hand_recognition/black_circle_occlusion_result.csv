@@ -1,0 +1,127 @@
+
+result for level 1 occluded hands:
+counts,label
+FP,1979
+TP,1108
+"
+"
+result for level 2 occluded hands:
+counts,label
+FP,2067
+TP,1020
+"
+"
+result for level 3 occluded hands:
+counts,label
+FP,2161
+TP,926
+"
+"
+result for level 4 occluded hands:
+counts,label
+FP,2275
+TP,812
+"
+"
+result for level 5 occluded hands:
+counts,label
+FP,2378
+TP,709
+"
+"
+result for level 6 occluded hands:
+counts,label
+FP,2506
+TP,581
+"
+"
+result for level 7 occluded hands:
+counts,label
+FP,2563
+TP,524
+"
+"
+result for level 8 occluded hands:
+counts,label
+FP,2646
+TP,441
+"
+"
+result for level 9 occluded hands:
+counts,label
+FP,2692
+TP,395
+"
+"
+result for level 10 occluded hands:
+counts,label
+FP,2714
+TP,373
+"
+"
+result for level 11 occluded hands:
+counts,label
+FP,2707
+TP,380
+"
+"
+result for level 12 occluded hands:
+counts,label
+FP,2747
+TP,340
+"
+"
+result for level 13 occluded hands:
+counts,label
+FP,2765
+TP,322
+"
+"
+result for level 14 occluded hands:
+counts,label
+FP,2798
+TP,289
+"
+"
+result for level 15 occluded hands:
+counts,label
+FP,2820
+TP,267
+"
+"
+result for level 16 occluded hands:
+counts,label
+FP,2814
+TP,273
+"
+"
+result for level 17 occluded hands:
+counts,label
+FP,2837
+TP,250
+"
+"
+result for level 18 occluded hands:
+counts,label
+FP,2870
+TP,217
+"
+"
+result for level 19 occluded hands:
+counts,label
+FP,2901
+TP,186
+"
+"
+result for level 20 occluded hands:
+counts,label
+FP,2958
+TP,129
+"
+"
+result for level 21 occluded hands:
+counts,label
+FP,2979
+TP,108
+"
+"

@@ -1,0 +1,2 @@
+test_case,precision,recall,f1_score
+naked_hands,0.3803045027534823,1.0,0.551044355785027

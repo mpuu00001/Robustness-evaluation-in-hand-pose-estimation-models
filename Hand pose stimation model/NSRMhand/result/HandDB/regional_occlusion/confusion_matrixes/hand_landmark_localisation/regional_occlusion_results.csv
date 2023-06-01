@@ -1,0 +1,13 @@
+
+result for top_5 occluded hands:
+counts,label
+50544,FP
+14283,TP
+"
+"
+result for bottom_5 occluded hands:
+counts,label
+50873,FP
+13954,TP
+"
+"

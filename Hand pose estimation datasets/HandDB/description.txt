@@ -1,0 +1,3 @@
+The folder "xyz" contains hand landmark benchmarks that are obtained from HandDB synth2 
+
+HandDB url: http://domedb.perception.cs.cmu.edu/handdb.html

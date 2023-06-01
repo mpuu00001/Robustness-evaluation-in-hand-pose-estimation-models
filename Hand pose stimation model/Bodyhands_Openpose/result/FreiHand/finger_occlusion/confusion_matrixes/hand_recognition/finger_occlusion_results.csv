@@ -1,0 +1,36 @@
+
+result for thumb occluded hands:
+counts,label
+FN,1770
+TP,1172
+FP,58
+"
+"
+result for index_finger occluded hands:
+counts,label
+FN,1706
+TP,1253
+FP,41
+"
+"
+result for middle_finger occluded hands:
+counts,label
+FN,1773
+TP,1183
+FP,44
+"
+"
+result for ring_finger occluded hands:
+counts,label
+FN,1748
+TP,1215
+FP,37
+"
+"
+result for pinky occluded hands:
+counts,label
+FN,1487
+TP,1474
+FP,39
+"
+"

@@ -1,0 +1,2 @@
+test_case,precision,recall,f1_score
+hands_with_objects,0.4650561216456351,0.7199317501218748,0.565083703450632

@@ -18,5 +18,9 @@ The experimental results are uploaded and placed at the corresponding folders of
 [MR3](https://github.com/mpuu00001/Robustness-Evaluation-in-Hand-Pose-Estimation/tree/main/MR3), and 
 [MR4](https://github.com/mpuu00001/Robustness-Evaluation-in-Hand-Pose-Estimation/tree/main/MR4).
 
+Here are samples of hands in different test cases:
+
+<img src="https://github.com/user-attachments/assets/723eb412-4c83-4505-a6d7-9f39d6e4d22b" alt="Presentation1" width="400"/>
+
 ## License
 The code is released under the MIT license.
